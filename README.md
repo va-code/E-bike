@@ -12,7 +12,7 @@ The original wheels have drum brakes that will need to be refurbished on the fro
 1. Removed the engine and old electronic equipment.
 2. Dissasembled the bike down to the frame.
 3. Started painting several small parts that came off near the beginning of the project.
-4. 
+4. Welded some of the frame that had cracked
 
 # Modifications needed
 1. Alter the rear wheel fork to allow slotting in of the hub motor.
@@ -23,7 +23,6 @@ The original wheels have drum brakes that will need to be refurbished on the fro
 
 #stuff to do
 1. buy batteries for pack
-2. weld minor frame crack
 3. sand and paint main parts
 4. reupholser the seat
 5. Redo lights and signals for electric system
